@@ -1,4 +1,4 @@
-package com.aavn.issue;
+package com.aavn.issue.inheritance;
 
 public class EncryptedDocument extends Document  {
 

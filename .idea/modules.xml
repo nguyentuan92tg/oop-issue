@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InheritanceIssue.iml" filepath="$PROJECT_DIR$/InheritanceIssue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-issue.iml" filepath="$PROJECT_DIR$/oop-issue.iml" />
     </modules>
   </component>
 </project>
